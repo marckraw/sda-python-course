@@ -9,25 +9,3 @@ word_2_set = set(word_2.strip())
 print(
     word_1_set.issuperset(word_2_set) or word_2_set.issuperset(word_1_set)
 )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
