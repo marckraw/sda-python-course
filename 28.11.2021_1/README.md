@@ -11,6 +11,8 @@
 
 ## Przydatne z z tego dnia
 - String nie sa modyfikowalne w pythonie !! (wszystkie funkcje na stringach zwracaja nowy string)
+- Python opiuje listy podobnie jak w JS - jest to shallow copy, zeby skopiowac liste deep, trzbea uzyc dodatkowego modulu "copy"
+- Comprehensive list - uzywac, bardzo wydajne, python way
 
 ```python
 any(['s', '', 'p']) # True
@@ -43,4 +45,5 @@ import math
 import sys
 import random
 import string
+import copy
 ```
