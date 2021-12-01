@@ -13,6 +13,7 @@
 - String nie sa modyfikowalne w pythonie !! (wszystkie funkcje na stringach zwracaja nowy string)
 - Python opiuje listy podobnie jak w JS - jest to shallow copy, zeby skopiowac liste deep, trzbea uzyc dodatkowego modulu "copy"
 - Comprehensive list - uzywac, bardzo wydajne, python way
+- W pythonie, nie ma stałych (const), stosuje sie opcjonalnie konwencje nazewnicza
 
 ```python
 any(['s', '', 'p']) # True
