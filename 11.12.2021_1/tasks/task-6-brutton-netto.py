@@ -2,7 +2,7 @@ def calculateBrutto(netto):
     return 10 / 8 * netto
 
 def calculateNetto(brutto):
-    return 80 / 100 * brutto
+    return 8 / 10 * brutto
 
 while True:
     print("----- MENU -----")
@@ -23,6 +23,8 @@ while True:
         money = float(input("Podaj kwote Brutto: "))
         netto = calculateNetto(money)
         print(f"Wynik {netto}")
+    else:
+        print("Nie rozumiem opcji.")
 
     print("Wcisnij enter...")
     input()
