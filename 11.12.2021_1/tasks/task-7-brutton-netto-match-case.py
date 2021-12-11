@@ -4,11 +4,14 @@ def calculateBrutto(netto):
 def calculateNetto(brutto):
     return 8 / 10 * brutto
 
-while True:
+def printMenu():
     print("----- MENU -----")
     print('1) Brutto -> Netto')
     print('2) Netto -> Brutto')
     print('3) Koniec')
+
+while True:
+    printMenu()
 
     choice = int(input("Opcja: "))
     print("Wybrano opcje", choice)
