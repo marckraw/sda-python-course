@@ -29,6 +29,20 @@ execution_time = time.time() - t
 ```
 
 
+```python
+wagi = [90, 86]
+lista = ['Bartek', 'Ola']
+lista = imiona if isinstance(typ, str) else wagi
+
+komunikat = 'ok' if 5 > 3 else 'not ok'
+```
+
+```python
+import math
+print((math.ceil if True else math.floor)(3.7))
+```
+
+
 ## Przydatne moduly
 ```python
 import time
