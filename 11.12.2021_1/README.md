@@ -46,4 +46,5 @@ print((math.ceil if True else math.floor)(3.7))
 ## Przydatne moduly
 ```python
 import time
+import os # for example some stuff to clear console
 ```
