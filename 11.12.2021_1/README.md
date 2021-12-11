@@ -15,6 +15,17 @@ name_changed = "-".join(name_list)
 print(name_changed)
 ```
 
+```python
+import time
+t = time.time()
+...
+...
+...
+execution_time = time.time() - t
+```
 
 
 ## Przydatne moduly
+```python
+import time
+```
