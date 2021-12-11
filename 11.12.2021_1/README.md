@@ -5,6 +5,10 @@
 - 2
 
 ## Przydatne z z tego dnia
+- profiler kodu
+```python
+python -m cProfile main.py 
+```
 - zip(letters, points) - laczy listy ze soba
 
 ```python
