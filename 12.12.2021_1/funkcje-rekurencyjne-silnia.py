@@ -6,4 +6,5 @@ def silnia(n):
     else:
         return n * silnia(n-1)
 
-print(silnia(5))
+for liczba in range(10):
+    print(f"silnia {liczba}: {silnia(liczba)}")
