@@ -1,6 +1,6 @@
 # fibonacci
 
-def fib(n):
+def fib(n=0): # default values (has to be last)
     if n == 0:
         return 0
     if n == 1:
