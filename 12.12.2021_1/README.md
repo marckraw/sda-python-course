@@ -5,6 +5,9 @@
 - 2
 
 ## Przydatne z z tego dnia
+```python
+hasattr(function, 'atrybut')
+```
 
 ## Przydatne moduly
 ```python
