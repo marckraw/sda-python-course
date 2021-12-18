@@ -7,3 +7,4 @@
  
 - [11.12.2021](https://github.com/marckraw/sda-python-course/tree/master/11.12.2021_1)
 - [12.12.2021](https://github.com/marckraw/sda-python-course/tree/master/12.12.2021_1)
+- [18.12.2021](https://github.com/marckraw/sda-python-course/tree/master/18.12.2021_1)
