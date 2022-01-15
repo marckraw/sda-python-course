@@ -11,6 +11,9 @@
 - alt + enter - nad funkcja/zmienna do zaimportowania
 - !! Najlepiej importowac konkretne funkcje z modulow, albo importowac caly modul (ale bez *), wtedy po nazwie modulu mozemy sie odwolywac do elementow !!
 
+- Repo z przykladowym projektem ktory mozna wrzucic do PyPI: https://github.com/marckraw/pypi-package-example
+- https://pypi.org/project/marckraw-hello-world/
+
 
 
 ## Przydatne moduly
