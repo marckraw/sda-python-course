@@ -15,5 +15,5 @@
 
 ## Przydatne moduly
 ```python
-
+pip install Pillow - dzialanie na obrazach
 ```
