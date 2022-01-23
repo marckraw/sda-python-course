@@ -21,8 +21,11 @@
     def test_multiple_values(self, value, expected):
         assert value == expected
   ```
+  - mockowanie, Mock(), MagicMock()
 
 ## Przydatne moduly
 ```python
+from unittest.mock import Mock, MagicMock
 
+pip install coverage
 ```
